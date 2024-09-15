@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{teaching.html}, nofooter  
+==Teaching
+
+I enjoy teaching and have spent a decent amount of time doing so, both at IIT-B and MIT. I list some of my experiences below.
+
+
+=== KTCP (Kaufman Teaching Certificate Program)
+During the fall semester of 2021, I participated in the [https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/ Kaufman Teaching Certificate Program] which is run by the Teaching + Learning Lab at MIT. It was a series of workshops covering a wide-range of topics such as course design, teaching for belonging, engaging students to facilitate learning, and how to provide meaningful feedback to students. The program also included two short teaching sessions during which we presented parts of a lesson to a peer group and an instructor, and exchanged feedback with other participants.
+
+I learnt a lot about the art and practice of teaching at the university level through the program, including current research on teaching methodologies and it has since helped me plan my recitations, lectures and problem sets in a more systematic and thoughtful manner.
+
+=== 16.36 (Communication Systems and Networks)
+16.36 is a introductory course covering topics on communication systems and networks for junior and senior undergrads in the AeroAstro department at MIT. I was a TA for the lab component of this course in Spring 2019 and Spring 2021.
+
+I taught a Software Defined Radio (SDR) lab accompanying the theoretical parts of the course that involved experiments covering sampling, modulation, interference and practical aspects of wireless communication. While the labs were originally designed to be in-person, during the pandemic, I modified the experiments to allow students to be able to control and program the radios remotely, and was able to run successful lab sessions over zoom. You can find my teaching scores from MIT's subject evaluation system for the 2021 iteration \[[Vishrant_TA_Evaluation_16_36.pdf here]\].
+
+=== 6.7700 (Fundamentals of Probability)
+6.7700 (or 6.436, as it was familiarly known prior to the EECS re-numbering of 2022) is an advanced course on measure-theoretic probability, typically taken by first year graduate students in EECS and Operations Research at MIT. The course builds a solid and rigorous foundation of probability that is essential for graduate students interested in working on theoretical problems.
+
+I was a TA for the Fall 2022 version of this course, during which I taught weekly recitations, offices hours, and one in-class lecture on mixing in Markov Chains. You can find my teaching scores from MIT's subject evaluation system \[[Vishrant_TA_Evaluation_6_7700.pdf here]\] and a video recording of my Markov chains lecture \[[https://www.dropbox.com/s/bayn59nqzxr0vxi/6.7700%20Lecture%20on%2011_29_2022%20Tue.mp4?dl=0 here]\].
+
+=== 16.09 (Probability and Statistics)
+
+16.09 is an introductory on probability and statistics for engineers, geared towards freshmen and sophomores in the AeroAstro department at MIT. I was a TA for the probability half of the course in Spring 2023, during which I taught weekly recitations, designed problem sets and lecture notes, and prepared a mid-term exam. You can find some of the lecture notes I designed for my recitations \[[Recitations_16-09_2023.pdf here]\]. You can find my teaching scores from MIT's subject evaluation system \[[Vishrant_TA_Evaluation_16_09.pdf here]\].

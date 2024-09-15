@@ -1,0 +1,45 @@
+# jemdoc: menu{MENU}{research.html}, nofooter  
+==Research
+
+My research is on the modeling, analysis and design of communication networks, with emphasis on wireless and real-time networks. My current focus is on scheduling problems in networked control systems, robotics and federated learning.
+
+I am generally interested in scheduling and resource allocation problems, even those arising outside wireless networks, and I have experience working on these problems at scale in Google and Facebook.
+
+While most of my work tends to be theoretical, over the past two years I have also designed and built new wireless systems that implement some of my network algorithms on drones and small autonomous vehicles, in collaboration with [http://www.mit.edu/~kadota/ Igor Kadota] and [https://www.ezratal.net/ Ezra Tal]. You can find a video describing some of this work [https://www.youtube.com/watch?v=zGjGxK5AXFk here].
+
+=== Conferences
+. V. Tripathi, I. Kadota, E. Tal, M. Shahir Rehman, A. Warren, S. Karaman, and E. Modiano, \"WiSwarm: Age-of-Information-based Wireless Networking for Collaborative Teams of UAVs\",  IEEE INFOCOM, 2023: \[[https://arxiv.org/abs/2212.03298 Technical Report]\]\[[https://www.youtube.com/watch?v=zGjGxK5AXFk Video]\].
+. V. Tripathi, N. Jones, and E. Modiano, \"Fresh-CSMA: A Distributed Protocol for Minimizing Age of Information\",  IEEE INFOCOM, 2023: \[[https://arxiv.org/abs/2212.03087 Technical Report]\].
+. V. Tripathi and E. Modiano, \"Optimizing Age of Information with Correlated Sources\",  ACM MobiHoc, 2022: *Best Paper Runner Up Award*. \[[https://arxiv.org/abs/2208.01738 Technical Report]\].
+. V. Tripathi, L. Ballotta, L. Carlone, and E. Modiano, \"Computation and Communication Co-Design for Real-Time Monitoring and Control in Multi-Agent
+Systems\",  WiOpt, 2021: \[[https://arxiv.org/abs/2108.03122 Technical Report]\].
+. V. Tripathi, and E. Modiano, \"An Online Learning Approach to Optimizing Time-
+Varying Costs of AoI\",  ACM Mobihoc, 2021: \[[https://arxiv.org/abs/2105.13383 Technical Report]\].
+. V. Tripathi, and E. Modiano, \"Age Debt: A General Framework for Minimizing Age of Information\", 4th AoI Wkshp, IEEE INFOCOM, 2021: \[[https://arxiv.org/abs/2101.10225 Technical Report]\].
+. V. Tripathi, and E. Modiano, \"A Whittle Index Approach to Minimizing Functions of Age of Information\",  In Allerton, 2019: \[[https://arxiv.org/abs/1908.10438 Technical Report]\] \[[Allerton_19_Presentation.pdf Slides]\].
+. V. Tripathi, R. Talak, and E. Modiano \" Age Optimal Information Gathering and Dissemination on Graphs \", IEEE INFOCOM, 2019: \[[https://ieeexplore.ieee.org/abstract/document/8737642 Proc. IEEE] \] \[[https://arxiv.org/abs/1901.02178 Technical Report]\] \[[Infocom_2019_Presentation.pdf Slides]\].
+. V. Tripathi, and S. Moharir, \"Age of Information in Multi-Source Systems\", In IEEE GlobeCom, 2017: \[[https://ieeexplore.ieee.org/abstract/document/8254578 Proc. IEEE] \] \[[https://www.dropbox.com/s/kbxhjh6nl4rop3g/main.pdf Technical Report]\] \[[btp-presentation.pdf Slides]\].
+
+=== Journals
+. V. Tripathi, R. Talak, and E. Modiano, \"Information Freshness in Multi-Hop Wireless Networks\",  IEEE/ACM Transactions on Networking, 2022: \[[https://arxiv.org/abs/2111.09217 Technical Report]\].
+. V. Tripathi, R. Talak, and E. Modiano \" Age Optimal Information Gathering and Dissemination on Graphs \", IEEE Transactions on Mobile Computing, 2021: \[[https://ieeexplore.ieee.org/abstract/document/9420260 Proc. IEEE] \].
+
+=== Presentations
+. "WiSwarm: Wireless Networking for Multi-Agent Robotics", LIDS Student Conference, February, 2023, *Best Presentation Award (Networks Session)*.
+. "Information Freshness for Monitoring and Control over Wireless Networks", 
+.. LIDS/RLE Communication + Information Theory Seminar, Spring 2022.
+.. Invited Talk, Nokia Bell Labs, December 2022.
+.. Invited Talk, Electrical Engineering, IIT-Bombay, December 2022.
+.. Invited Talk, School of Technology and Computer Science, TIFR, Mumbai, December 2022.
+. "Age Debt: A General Framework For Minimizing Age of Information", LIDS and Stats Tea Talk, April, 2021.
+. [LIDS_Student_Conf_2022_Talk.pdf Talk] on Online Learning for Restless Multi-Armed Bandits, LIDS Student Conference, January, 2021.
+. [mean_field_slides.pdf Lecture] on mean field theory in networks, 6.263 (Data Communication Networks), MIT, November, 2019.
+. "Age Optimal Information Gathering and Dissemination on Graphs", LIDS Student Conference, January, 2019, *Best Presentation Runner Up Award*. 
+
+
+=== Theses and Preprints
+. V. Tripathi, \"Age of Information and Mobility\",  \[[https://dspace.mit.edu/handle/1721.1/122705 S.M. Thesis]\], MIT, 2019.
+. V. Tripathi, R. Talak, and E. Modiano, \"Age of Information for Discrete Time Queues\",  \[[https://arxiv.org/abs/1901.10463 Technical Report]\].
+
+
+Some other stuff that I have worked on over the years includes predicting chaotic systems using matrix estimation (course project for advanced machine learning at MIT), non-monotonic Lyapunov functions (course project for algebraic optimization at MIT), finding large submatrices in random matrices (course project for advanced probability at MIT), and distributed spectral clustering (course project for advanced signal processing at IIT-B).
