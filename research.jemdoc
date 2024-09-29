@@ -1,13 +1,16 @@
 # jemdoc: menu{MENU}{research.html}, nofooter  
 ==Research
 
+You can find current research directions and updates for the Multi-Agent Intelligent Networks (MAIN) group on our group [https://vishrantt.github.io/main-lab/research.html website]. The discussion below might not be completely up to date.
+
 My research is on the modeling, analysis and design of communication networks, with emphasis on wireless and real-time networks. My current focus is on scheduling problems in networked control systems, robotics and federated learning.
 
 I am generally interested in scheduling and resource allocation problems, even those arising outside wireless networks, and I have experience working on these problems at scale in Google and Facebook.
 
-While most of my work tends to be theoretical, over the past two years I have also designed and built new wireless systems that implement some of my network algorithms on drones and small autonomous vehicles, in collaboration with [http://www.mit.edu/~kadota/ Igor Kadota] and [https://www.ezratal.net/ Ezra Tal]. You can find a video describing some of this work [https://www.youtube.com/watch?v=zGjGxK5AXFk here].
+While most of my work tends to be theoretical, over the past few years I have also designed and built new wireless systems that implement some of my network algorithms on drones and small autonomous vehicles, in collaboration with [https://sites.northwestern.edu/kadota/ Igor Kadota] and [https://www.ezratal.net/ Ezra Tal]. You can find a video describing some of this work [https://www.youtube.com/watch?v=zGjGxK5AXFk here].
 
 === Conferences
+. R. V. Ramakanth, V. Tripathi, and E. Modiano, \"Monitoring Correlated Sources: AoI-Based Scheduling is Nearly Optimal\",  IEEE INFOCOM, 2024: \[[https://arxiv.org/pdf/2312.16813 Technical Report]\].
 . V. Tripathi, I. Kadota, E. Tal, M. Shahir Rehman, A. Warren, S. Karaman, and E. Modiano, \"WiSwarm: Age-of-Information-based Wireless Networking for Collaborative Teams of UAVs\",  IEEE INFOCOM, 2023: \[[https://arxiv.org/abs/2212.03298 Technical Report]\]\[[https://www.youtube.com/watch?v=zGjGxK5AXFk Video]\].
 . V. Tripathi, N. Jones, and E. Modiano, \"Fresh-CSMA: A Distributed Protocol for Minimizing Age of Information\",  IEEE INFOCOM, 2023: \[[https://arxiv.org/abs/2212.03087 Technical Report]\].
 . V. Tripathi and E. Modiano, \"Optimizing Age of Information with Correlated Sources\",  ACM MobiHoc, 2022: *Best Paper Runner Up Award*. \[[https://arxiv.org/abs/2208.01738 Technical Report]\].
@@ -21,6 +24,9 @@ Varying Costs of AoI\",  ACM Mobihoc, 2021: \[[https://arxiv.org/abs/2105.13383 
 . V. Tripathi, and S. Moharir, \"Age of Information in Multi-Source Systems\", In IEEE GlobeCom, 2017: \[[https://ieeexplore.ieee.org/abstract/document/8254578 Proc. IEEE] \] \[[https://www.dropbox.com/s/kbxhjh6nl4rop3g/main.pdf Technical Report]\] \[[btp-presentation.pdf Slides]\].
 
 === Journals
+. R. V. Ramakanth, V. Tripathi, and E. Modiano, \"Monitoring Correlated Sources: AoI-Based Scheduling is Nearly Optimal\",  IEEE Transactions on Mobile Computing, 2024: \[[https://arxiv.org/pdf/2312.16813 Technical Report]\].
+. V. Tripathi, and E. Modiano, \"A Whittle Index Approach to Minimizing Functions of Age of Information\",  IEEE/ACM Transactions on Networking, 2024: \[[https://arxiv.org/abs/1908.10438 Technical Report]\]
+. V. Tripathi and E. Modiano, \"Optimizing Age of Information with Correlated Sources\",  IEEE/ACM Transactions on Networking, 2024: \[[https://arxiv.org/abs/2208.01738 Technical Report]\].
 . V. Tripathi, R. Talak, and E. Modiano, \"Information Freshness in Multi-Hop Wireless Networks\",  IEEE/ACM Transactions on Networking, 2022: \[[https://arxiv.org/abs/2111.09217 Technical Report]\].
 . V. Tripathi, R. Talak, and E. Modiano \" Age Optimal Information Gathering and Dissemination on Graphs \", IEEE Transactions on Mobile Computing, 2021: \[[https://ieeexplore.ieee.org/abstract/document/9420260 Proc. IEEE] \].
 
@@ -38,6 +44,7 @@ Varying Costs of AoI\",  ACM Mobihoc, 2021: \[[https://arxiv.org/abs/2105.13383 
 
 
 === Theses and Preprints
+. V. Tripathi, \"Information Freshness for Monitoring and Control over Wireless Networks\",  \[[https://vishrantt.github.io/tripathi-vishrant-phd-2023-thesis.pdf PhD Thesis]\], MIT, 2023.
 . V. Tripathi, \"Age of Information and Mobility\",  \[[https://dspace.mit.edu/handle/1721.1/122705 S.M. Thesis]\], MIT, 2019.
 . V. Tripathi, R. Talak, and E. Modiano, \"Age of Information for Discrete Time Queues\",  \[[https://arxiv.org/abs/1901.10463 Technical Report]\].
 

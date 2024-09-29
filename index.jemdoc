@@ -4,34 +4,39 @@
 ~~~
 {}{img_left}{photos/V_NYC.jpg}{}{514}{290}{}
 Assistant Professor, \n[https://engineering.purdue.edu/ECE Dept. of ECE, Purdue]\n 
-email: /tripathv/ \[@\] purdue \[DOT\] edu
+email: /tripathv/ \[@\] purdue \[DOT\] edu \n PI of [https://vishrantt.github.io/main-lab MAIN lab]
 ~~~
 
 == About me
- I will be joining the department of Electrical and Computer Engineering (ECE) at Purdue University as an Assistant Professor in Fall 2024. My research interests lie in the optimization of networks - with application areas including multi-agent robotics, networked control, federated learning, and edge computing. More recently, I have also been working on software defined networking and next-generation wireless networks. 
+ I joined the department of Electrical and Computer Engineering (ECE) at Purdue University as an Assistant Professor in Fall 2024. Here, I have set up the [https://vishrantt.github.io/main-lab *Multi-Agent Intelligent Networks (MAIN)* group]. Our research interests lie in the optimization of networks - with application areas including multi-agent robotics, networked control, federated learning, and edge computing. More recently, I have also been working on software defined networking and next-generation wireless networks. 
 
- In case you're interested in working on problems at the intersection of communication networks, probabilistic modeling, optimization/control, robotics, and machine learning *I am recruiting students for Fall 2024, Spring 2025 and Fall 2025. Send me an email to get in touch!*
+ In case you're interested in working on problems at the intersection of communication networks, probabilistic modeling, optimization/control, robotics, and machine learning *I am recruiting students for Spring 2025 and Fall 2025. Send me an email to get in touch!*
 
  I obtained a Ph.D. in the EECS department at MIT, working with [https://modiano.mit.edu Prof. Eytan Modiano] at the Laboratory for Information and Decision Systems ([https://lids.mit.edu LIDS]). There, I worked on the modeling, analysis and design of communication networks, with emphasis on wireless and real-time networks. I have also worked on scheduling problems in networked control systems, robotics, federated learning, and software defined network control for datacenters.
 
  Priot to my time at MIT, I received a B.Tech. with Honors in Electrical Engineering at the Indian Institute of Technology, Bombay ([http://www.iitb.ac.in IIT-B]). There, I worked with [https://sites.google.com/site/sharayumoharir/ Prof. Sharayu Moharir] on resource allocation in wireless networks.
 
- You can find press coverage of some of my recent work at the following links - [https://news.mit.edu/2023/new-traffic-cop-algorithm-drone-swarm-wireless-0313 MIT News], [https://aeroastro.mit.edu/news-impact/new-traffic-cop-algorithm-helps-a-drone-swarm-stay-on-task/ AeroAstro@MIT], [https://computing.mit.edu/news/new-traffic-cop-algorithm-helps-a-drone-swarm-stay-on-task/ Schwarzman College of Computing MIT], [https://idss.mit.edu/news/new-traffic-cop-algorithm-helps-a-drone-swarm-stay-on-task/ Institute for Data Systems and Society MIT], [https://wca.org/a-new-wireless-algorithm-helps-drones-stay-focused-on-tasks/ Wireless Communications Alliance], [https://aimagazine.com/articles/robots-and-drones-demanding-data-for-life-or-death-decisions AI Magazine], [https://www.hackster.io/news/don-t-let-the-past-slow-you-down-97410db15624 Hackster.io], [https://techxplore.com/news/2023-03-traffic-cop-algorithm-drone-swarm.html TechXplore], [https://www.autonomousvehicleinternational.com/news/connectivity/mit-engineers-develop-wiswarm-to-prioritize-wi-fi-data-transfer.html Autonomous Vehicle International], 
+ You can find press coverage of some of my work at the following links - [https://news.mit.edu/2023/new-traffic-cop-algorithm-drone-swarm-wireless-0313 MIT News], [https://aeroastro.mit.edu/news-impact/new-traffic-cop-algorithm-helps-a-drone-swarm-stay-on-task/ AeroAstro@MIT], [https://computing.mit.edu/news/new-traffic-cop-algorithm-helps-a-drone-swarm-stay-on-task/ Schwarzman College of Computing MIT], [https://idss.mit.edu/news/new-traffic-cop-algorithm-helps-a-drone-swarm-stay-on-task/ Institute for Data Systems and Society MIT], [https://wca.org/a-new-wireless-algorithm-helps-drones-stay-focused-on-tasks/ Wireless Communications Alliance], [https://aimagazine.com/articles/robots-and-drones-demanding-data-for-life-or-death-decisions AI Magazine], [https://www.hackster.io/news/don-t-let-the-past-slow-you-down-97410db15624 Hackster.io], [https://techxplore.com/news/2023-03-traffic-cop-algorithm-drone-swarm.html TechXplore], [https://www.autonomousvehicleinternational.com/news/connectivity/mit-engineers-develop-wiswarm-to-prioritize-wi-fi-data-transfer.html Autonomous Vehicle International], 
  and [https://www.quadricottero.com/2023/03/mit-sviluppa-wiswarm-il-nuovo.html Quadricottero]. 
 
 == Recent Updates
 
-*Jun 2024*: After a wonderful year at Google, I will be moving to the ECE department at Purdue as an /Elmore Scholar of Excellence/ Assistant Professor.
+*Sep 2024*: Our paper "Monitoring Correlated Sources: AoI-based Scheduling is Nearly Optimal" got accepted to IEEE Transactions on Mobile Computing (TMC)! This was joint work with R. Vallabh Ramakanth and Prof. Modiano at MIT.
+
+*Aug 2024*: Our paper "Optimizing Age of Information with Correlated Sources" got accepted to IEEE Transactions on Networking! This was joint work with Prof. Modiano at MIT.
+
+*Aug 2024*: Our paper "A Whittle Index Approach to Minimizing Functions of Age of Information" got accepted to IEEE Transactions on Networking! This was joint work with Prof. Modiano at MIT.
+
+*Aug 2024*: I will start as an /Elmore Scholar of Excellence/ Assistant Professor in the ECE department at Purdue!
 
 *Dec 2023*: Our paper "Monitoring Correlated Sources: AoI-based Scheduling is Nearly Optimal" just got accepted to [https://infocom2024.ieee-infocom.org/program/accepted-paper-list-main-conference IEEE INFOCOM 2024]. This was joint work with R. Vallabh Ramakanth and Prof. Modiano.
 
-*Dec 2023*: My thesis and ongoing research will be profiled in the upcoming special issue of the ACM SIGMETRICS Performance Review. You can find a copy of the profile [https://www.mit.edu/~vishrant/ACM_Profile.pdf here].
-
-*Aug 2023*: I recently defended my Ph.D. thesis successfully at MIT. This was a culmination of 6 years of work, and I am grateful to everyone who helped me along the way! You can find a video recording of my defense [https://www.youtube.com/watch?v=KRHrGnG0qDY here] and a pdf version of the slides I used during my defense [https://www.mit.edu/~vishrant/Thesis_Defense_shortened.pdf here]. You can also find a copy of my thesis [https://www.mit.edu/~vishrant/tripathi-vishrant-phd-2023-thesis.pdf here].
- 
+*Dec 2023*: My thesis and ongoing research will be profiled in the upcoming special issue of the ACM SIGMETRICS Performance Review. You can find a copy of the profile [https://vishrantt.github.io/ACM_Profile.pdf here].
 
 == Research
-My research interests include 
+For a detailed description of my current research interests, please check our group's website - [https://vishrantt.github.io/main-lab MAIN lab]. 
+
+At a high level, my research interests include 
 - Communication Networks
 - Robotics
 - Control & Optimization
@@ -45,19 +50,13 @@ My work typically involves formulating a theoretical model that captures the mai
 <iframe width="735" height="413" src="https://www.youtube.com/embed/zGjGxK5AXFk" title="WiSwarm: Age-of-Information-based Wireless Networking for Collaborative Teams of UAVs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
 
+I defended my Ph.D. thesis successfully at MIT in Aug 2023. This was a culmination of 6 years of work, and I am grateful to everyone who helped me along the way! You can find a video recording of my defense [https://www.youtube.com/watch?v=KRHrGnG0qDY here] and a pdf version of the slides I used during my defense [https://vishrantt.github.io/Thesis_Defense_shortened.pdf here]. You can also find a copy of my thesis [https://vishrantt.github.io/tripathi-vishrant-phd-2023-thesis.pdf here].
 
 === Recent Publications 
+. R. V. Ramakanth, V. Tripathi, and E. Modiano, \"Monitoring Correlated Sources: AoI-Based Scheduling is Nearly Optimal\",  IEEE INFOCOM, 2024: \[[https://arxiv.org/pdf/2312.16813 Technical Report]\].
 . V. Tripathi, I. Kadota, E. Tal, M. Shahir Rehman, A. Warren, S. Karaman, and E. Modiano, \"WiSwarm: Age-of-Information-based Wireless Networking for Collaborative Teams of UAVs\",  IEEE INFOCOM, 2023: \[[https://arxiv.org/abs/2212.03298 Technical Report]\].
 . V. Tripathi, N. Jones, and E. Modiano, \"Fresh-CSMA: A Distributed Protocol for Minimizing Age of Information\",  IEEE INFOCOM, 2023: \[[https://arxiv.org/abs/2212.03087 Technical Report]\].
-. V. Tripathi, R. Talak, and E. Modiano, \"Information Freshness in Multi-Hop Wireless Networks\",  IEEE/ACM Transactions on Networking, 2022: \[[https://arxiv.org/abs/2111.09217 Technical Report]\].
-. V. Tripathi and E. Modiano, \"Optimizing Age of Information with Correlated Sources\",  ACM MobiHoc, 2022: *Best Paper Runner Up Award*. \[[https://arxiv.org/abs/2208.01738 Technical Report]\] .
-. V. Tripathi, L. Ballotta, L. Carlone, and E. Modiano, \"“Computation and Communication Co-Design for Real-Time Monitoring and Control in Multi-Agent
-Systems\",  IFIP WiOpt, 2021: \[[https://arxiv.org/abs/2108.03122 Technical Report]\].
-. V. Tripathi, and E. Modiano, \"An Online Learning Approach to Optimizing Time-
-Varying Costs of AoI\",  ACM Mobihoc, 2021: \[[https://arxiv.org/abs/2105.13383 Technical Report]\].
-. V. Tripathi, and E. Modiano, \"Age Debt: A general framework for minimizing age of information\",  AoI Workshop, IEEE INFOCOM, 2021: \[[https://arxiv.org/abs/2101.10225 Technical Report]\].
-#. V. Tripathi, and E. Modiano, \"A whittle index approach to minimizing functions of age of information\",  In Allerton, 2019: \[[https://arxiv.org/abs/1908.10438 Technical Report]\].
-#. V. Tripathi, R. Talak, and E. Modiano \" Age optimal information gathering and dissemination on graphs \", IEEE INFOCOM, 2019. \[[https://ieeexplore.ieee.org/abstract/document/8737642 Proc. IEEE] \] \[[https://arxiv.org/abs/1901.02178 Technical Report]\]
+. V. Tripathi and E. Modiano, \"Optimizing Age of Information with Correlated Sources\",  ACM MobiHoc, 2022: *Best Paper Runner Up Award*. \[[https://arxiv.org/abs/2208.01738 Technical Report]\].
 
 Visit my [https://scholar.google.com/citations?user=ISDz-XkAAAAJ&hl=en google scholar profile] for a complete list of publications.
 
