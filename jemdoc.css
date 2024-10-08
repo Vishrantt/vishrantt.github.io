@@ -1,6 +1,120 @@
 
 /* Default css file for jemdoc. */
 
+
+/* <uniquifier>: Use a unique and descriptive class name
+<weight>: Use a value from 300 to 800 
+
+
+.open-sans-<uniquifier> {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.titillium-web-extralight {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.titillium-web-light {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.titillium-web-regular {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.titillium-web-semibold {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.titillium-web-bold {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.titillium-web-black {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.titillium-web-extralight-italic {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.titillium-web-light-italic {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.titillium-web-regular-italic {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.titillium-web-semibold-italic {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.titillium-web-bold-italic {
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+.quantico-regular {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.quantico-bold {
+  font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.quantico-regular-italic {
+  font-family: "Quantico", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.quantico-bold-italic {
+  font-family: "Quantico", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+*/ 
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+
 table#tlayout {
     border: none;
     border-collapse: separate;
@@ -9,22 +123,31 @@ table#tlayout {
 
 body {
     background: white;
-    font-family: Georgia, serif;
+    font-family: "Open Sans", sans-serif;
     padding-bottom: 8px;
+    padding-top: 5em;
     margin: 0;
+    padding-left: 17em;
+    padding-right: 13em;
 }
 
+
+
 #layout-menu {
-    background: #f6f6f6;
-    border: 1px solid #dddddd;
-    padding-top: 0.5em;
+    background: url('photos/main-lab-chip-blue.png') no-repeat top left;
+    background-size: 150px; /* Adjust based on your image size */
+    padding-top: 170px; /* Ensure space is reserved for the image */
+    border-right: 1px solid #ffffff;
     padding-left: 8px;
-    padding-right: 8px;
-    font-size: 1.0em;
+    padding-right: 70px;
+    font-size: 1.1em;
     width: auto;
     white-space: nowrap;
     text-align: left;
     vertical-align: top;
+       
+
+    
 }
 
 #layout-menu td {
@@ -34,8 +157,8 @@ body {
 
 #layout-content {
     padding-top: 0.0em;
-    padding-left: 1.0em;
-    padding-right: 1.0em;
+    padding-left: 5.0em;
+    padding-right: 12.0em;
     border: none;
     background: white;
     text-align: left;
@@ -66,11 +189,11 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-    color: #022b6d;
+    color: #000080;
     border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-    color: #527bbd;
+    color: #000080;
     text-decoration: none;
 }
 #layout-menu a:hover {
@@ -78,7 +201,7 @@ a:hover {
 }
 
 div.menu-category {
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid #000080;
     margin-top: 0.8em;
     padding-top: 0.2em;
     padding-bottom: 0.1em;
@@ -90,11 +213,11 @@ div.menu-item {
     text-indent: -16px;
 }
 
-div#toptitle {
+/*div#toptitle {
     padding-bottom: 0.2em;
     margin-bottom: 1.5em;
     border-bottom: 3px double gray;
-}
+}*/
 
 /* Reduce space if we begin the page with a title. */
 div#toptitle + h2, div#toptitle + h3 {
@@ -118,22 +241,28 @@ strong {
 
 
 h1, h2, h3 {
-    color: #527bbd;
+    font-family: "Titillium Web", sans-serif;
+    /*font-family: "Quantico", sans-serif;*/
+    /*font-family: "Orbitron", sans-serif;*/
+    font-size: large;
+    font-weight:600;
+    color: #000080;
     margin-top: 0.7em;
     margin-bottom: 0.3em;
     padding-bottom: 0.2em;
     line-height: 1.0;
     padding-top: 0.5em;
-    border-bottom: 1px solid #aaaaaa;
+    border-bottom: 1px solid #ffffff;
 }
 
 h1 {
-    font-size: 165%;
+    padding-top: 1em;
+    font-size: 250%;
 }
 
 h2 {
-    padding-top: 0.8em;
-    font-size: 125%;
+    padding-top: 1em;
+    font-size: 150%;
 }
 
 h2 + h3 {
@@ -234,24 +363,25 @@ p + div.codeblock {
 
 div.codeblock, div.infoblock {
     margin-right: 0%;
-    margin-top: 1.2em;
+    margin-top: -.5em;
     margin-bottom: 1.3em;
 }
 
-div.blocktitle {
+/*div.blocktitle {
     font-weight: bold;
     color: #cd7b62;
     margin-top: 1.2em;
     margin-bottom: 0.1em;
-}
+}*/
 
 div.blockcontent {
-    border: 1px solid silver;
+    text-align: right;
+    /*border: 1px solid rgb(255, 255, 255);*/
     padding: 0.3em 0.5em;
 }
 
 div.infoblock > div.blockcontent {
-    background: #ffffee;
+    background: #ffffff;
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
@@ -323,7 +453,7 @@ div#toptitle h1, #layout-content div#toptitle h1 {
 }
 
 table {
-    border: 2px solid black;
+    border: none;
     border-collapse: collapse;
 }
 
@@ -332,7 +462,7 @@ td {
     padding-left: 0.5em;
     padding-right: 0.5em;
     text-align: center;
-    border: 1px solid gray;
+    border: none;
 }
 
 table + table {
@@ -345,6 +475,7 @@ tr.heading {
 }
 
 img {
+    background-color: none;
     border: none;
 }
 
