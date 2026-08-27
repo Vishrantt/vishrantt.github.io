@@ -1,13 +1,15 @@
 # jemdoc: menu{MENU}{research.html}, nofooter  
 ==Research
 
-You can find current research directions and updates for the Multi-Agent Intelligent Networks (MAIN) group on our group [https://vishrantt.github.io/main-lab/research.html website]. The discussion below might not be completely up to date.
+You can find current research directions and updates for the Multi-Agent Intelligent Networks (MAIN) group on our group [https://vishrantt.github.io/main-lab/research.html website]. *The list below is out date. Please check my [https://scholar.google.com/citations?user=ISDz-XkAAAAJ&hl=en google scholar profile] for the latest papers coming out of our group.*
 
 My research is on the modeling, analysis and design of communication networks, with emphasis on wireless and real-time networks. My current focus is on scheduling problems in networked control systems, robotics and federated learning.
 
 I am generally interested in scheduling and resource allocation problems, even those arising outside wireless networks, and I have experience working on these problems at scale in Google and Facebook.
 
 While most of my work tends to be theoretical, over the past few years I have also designed and built new wireless systems that implement some of my network algorithms on drones and small autonomous vehicles, in collaboration with [https://sites.northwestern.edu/kadota/ Igor Kadota] and [https://www.ezratal.net/ Ezra Tal]. You can find a video describing some of this work [https://www.youtube.com/watch?v=zGjGxK5AXFk here].
+
+
 
 === Conferences
 . R. V. Ramakanth, V. Tripathi, and E. Modiano, \"Monitoring Correlated Sources: AoI-Based Scheduling is Nearly Optimal\",  IEEE INFOCOM, 2024: \[[https://arxiv.org/pdf/2312.16813 Technical Report]\].

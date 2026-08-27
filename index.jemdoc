@@ -10,7 +10,7 @@ email: /tripathv/ \[@\] purdue \[DOT\] edu \n PI of [https://vishrantt.github.io
 == About me
  I joined the department of Electrical and Computer Engineering (ECE) at Purdue University as an Assistant Professor in Fall 2024. Here, I have set up the [https://vishrantt.github.io/main-lab *Multi-Agent Intelligent Networks (MAIN)* group]. Our research interests lie in the optimization of networks - with application areas including multi-agent robotics, networked control, federated learning, and edge computing. More recently, I have also been working on accelerating ML inference and next-generation wireless networks. 
 
- In case you're interested in working on problems at the intersection of communication networks, probabilistic modeling, optimization/control, robotics, and machine learning *I am recruiting students for Fall 2026 and Fall 2027. Send me an email to get in touch!*
+ In case you're interested in working on problems at the intersection of communication networks, probabilistic modeling, optimization/control, robotics, and machine learning *I am recruiting students for Fall 2027. Send me an email to get in touch!*
 
  I obtained a Ph.D. in the EECS department at MIT, working with [https://modiano.mit.edu Prof. Eytan Modiano] at the Laboratory for Information and Decision Systems ([https://lids.mit.edu LIDS]). There, I worked on the modeling, analysis and design of communication networks, with emphasis on wireless and real-time networks. I have also worked on scheduling problems in networked control systems, robotics, federated learning, and software defined network control for datacenters.
 
@@ -20,6 +20,10 @@ email: /tripathv/ \[@\] purdue \[DOT\] edu \n PI of [https://vishrantt.github.io
  and [https://www.quadricottero.com/2023/03/mit-sviluppa-wiswarm-il-nuovo.html Quadricottero]. 
 
 == Recent Updates
+
+*Aug 2026*: We received an NSF VINES Track 2 grant titled "SEA-NET: Scalable Edge Analytics and Networking for Autonomous Maritime Emergency Response"! This is a multi-institution collaborative effort led by Spectronn Inc, along with researchers from Purdue, Georgia Tech and Stevens Institute of Technology. 
+
+*Apr 2026*: Our paper "Timely Trajectory Reconstruction in Finite Buffer Remote Tracking Systems" got accepted to IEEE Transactions on Networking! This work was led by Sunjung Kang, along with co-author Prof. Chris Brinton.
 
 *Mar 2026*: Our paper "Using Age of Information for Throughput Optimal Spectrum Sharing" got accepted to WiOpt 2026! This work was led by Hongjae Nam, along with co-author Prof. David Love.
 
@@ -31,12 +35,6 @@ email: /tripathv/ \[@\] purdue \[DOT\] edu \n PI of [https://vishrantt.github.io
 
 *Apr 2025*: Our paper "Communication-Efficient Cooperative Localization: A Graph Neural Network Approach" got accepted to WiOpt 2025! This work was led by Yinan Zou, along with co-author Prof. Chris Brinton.
 
-*Mar 2025*: Our paper "Timely Trajectory Reconstruction in Finite Buffer Remote Tracking Systems" got accepted to WiOpt 2025! This work was led by Sunjung Kang, along with co-author Prof. Chris Brinton.
-
-*Jan 2025*: Our paper "AoI-based Scheduling of Correlated Sources for Timely Inference" got accepted to IEEE ICC 2025! This work was led by Md. Kamran Shisher, along with co-authors Prof. Mung Chiang and Prof. Chris Brinton.
-
-*Aug 2024*: I will start as an /Elmore Scholar of Excellence/ Assistant Professor in the ECE department at Purdue!
-
 == Research
 For a detailed description of my current research interests, please check our group's website - [https://vishrantt.github.io/main-lab MAIN lab]. 
 
@@ -47,7 +45,7 @@ At a high level, my research interests include
 
 I currently work on designing scheduling policies for the consistent delivery of timely information in wireless and mobile networks. Applications include internet-of-things, networked control systems, multi-agent robotics and federated learning.
 
-My work typically involves formulating a theoretical model that captures the main details of a problem to be studied, but still remains analytically tractable. Then, I analyze this model to gain new insights; using tools from probability, optimization and algorithms. More recently, I have also been interested in building new wireless systems that verify our fundamental theoretical results in practice. A short video describing some of this work is linked below - 
+My work typically involves formulating a theoretical model that captures the main details of a problem to be studied, but still remains analytically tractable. Then, I analyze this model to gain new insights; using tools from probability, optimization and algorithms. More recently, I have also been interested in building new wireless systems that verify our fundamental theoretical results in practice. A short video describing some of my older work is linked below - 
 
 ~~~
 {}{raw}
@@ -57,10 +55,6 @@ My work typically involves formulating a theoretical model that captures the mai
 I defended my Ph.D. thesis successfully at MIT in Aug 2023. This was a culmination of 6 years of work, and I am grateful to everyone who helped me along the way! You can find a video recording of my defense [https://www.youtube.com/watch?v=KRHrGnG0qDY here] and a pdf version of the slides I used during my defense [https://vishrantt.github.io/Thesis_Defense_shortened.pdf here]. You can also find a copy of my thesis [https://vishrantt.github.io/tripathi-vishrant-phd-2023-thesis.pdf here].
 
 === Recent Publications 
-#. R. V. Ramakanth, V. Tripathi, and E. Modiano, \"Monitoring Correlated Sources: AoI-Based Scheduling is Nearly Optimal\",  IEEE INFOCOM, 2024: \[[https://arxiv.org/pdf/2312.16813 Technical Report]\].
-#. V. Tripathi, I. Kadota, E. Tal, M. Shahir Rehman, A. Warren, S. Karaman, and E. Modiano, \"WiSwarm: Age-of-Information-based Wireless Networking for Collaborative Teams of UAVs\",  IEEE INFOCOM, 2023: \[[https://arxiv.org/abs/2212.03298 Technical Report]\].
-#. V. Tripathi, N. Jones, and E. Modiano, \"Fresh-CSMA: A Distributed Protocol for Minimizing Age of Information\",  IEEE INFOCOM, 2023: \[[https://arxiv.org/abs/2212.03087 Technical Report]\].
-#. V. Tripathi and E. Modiano, \"Optimizing Age of Information with Correlated Sources\",  ACM MobiHoc, 2022: *Best Paper Runner Up Award*. \[[https://arxiv.org/abs/2208.01738 Technical Report]\].
 
 Visit my [https://scholar.google.com/citations?user=ISDz-XkAAAAJ&hl=en google scholar profile] for a complete list of publications.
 
